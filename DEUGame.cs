@@ -18,8 +18,8 @@ namespace Calendar
             string[] A1 = new string[15];
             string[] A2 = new string[15];
             string[] A3 = new string[15];
-            string[] array = new string[] { "A1", "A2", "A3" };//rastgele seçeceği array için
-            string[] letter = new string[] { "D ", "E ", "U " };// rastgele seçeceği harf için
+            string[] array = new string[] { "A1", "A2", "A3" };//rastgele seçeceği array için.
+            string[] letter = new string[] { "D ", "E ", "U " };// rastgele seçeceği harf için.
 
             for (r = 0; r < 46; r++)//r=44 iken tüm diziler yazılmıştır.r=45 olursa döngüden çıkılmamıştır öyleyse beraberlik söz konusu
             {
